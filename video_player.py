@@ -13,7 +13,7 @@ def get_current_week():
 
 def find_video_file():
     # Chemin du dossier contenant les vidéos
-    video_dir = "C:/Videos_Diapo"  # À modifier selon votre emplacement
+    video_dir = "F:/"  # Dossier racine du disque F
     current_week = get_current_week()
     
     # Chercher le fichier correspondant à la semaine actuelle
