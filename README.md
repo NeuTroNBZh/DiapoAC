@@ -43,7 +43,7 @@ DiapoAC est une application Windows qui permet de lire automatiquement des vidé
 
 5. Compilez l'application en exécutable :
    ```bash
-   pyinstaller --onefile --windowed video_player.py
+   pyinstaller --onefile video_player.py
    ```
 
 6. Exécutez `install.bat` pour configurer le démarrage automatique
